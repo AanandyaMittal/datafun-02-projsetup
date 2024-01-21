@@ -1,4 +1,7 @@
-''' This module provides functions for creating a series of project folders. '''
+''' This module provides functions for creating a series of project folders. 
+    Practice creating folders, working with lists, repeating commands, and branching
+    based on conditions'''
+
 import math
 import statistics
 import pathlib
